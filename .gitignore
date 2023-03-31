@@ -7,4 +7,4 @@
 
 # Local History for Visual Studio Code
 .history/
-./stm32/[0]printf_timer_adc_dma_dac/test/Debug/*
+stm32/[0]printf_timer_adc_dma_dac/test/Debug/*

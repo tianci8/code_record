@@ -23,7 +23,7 @@
 
 - 如下图，因为TFT_eSPI的文件中写明了，**如果存在其他SPI设备共享MISO接口，TFT屏幕的SDO是不需要连接的**。而我们的触摸传感器，是一种SPI设备
 
-  ![image-20230403143041946](C:\Users\97930\AppData\Roaming\Typora\typora-user-images\image-20230403143041946.png)
+  ![image-20230403143041946](https://s2.loli.net/2023/04/03/jMntQJTxZI5gqwV.png)
 
 - 我直接在屏幕模块上进行了飞线处理，短接了T_DIN与SDI，以及T_CLK与SCK
 
